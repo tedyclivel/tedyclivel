@@ -1,17 +1,26 @@
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=70&lines=Hey+there!+%F0%9F%91%8B+I'm+Tedy+Clivel"
-alt="Tedy Clivel"
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0EA5E9,70:6366F1,100:A855F7&text=Tedy%20Clivel&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=17"
 />
 
-### Full-Stack Developer • Problem Solver • Cybersecurity Enthusiast
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&lines=Full-Stack+%26+Mobile+Developer;Competitive+Programming+Learner;Cybersecurity+%26+CTF+Enthusiast;Open+Source+Explorer;Build+%E2%86%92+Solve+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve"
+alt="Typing animation"
+/>
 
-**Building applications, solving problems and exploring how systems work beneath the surface.**
+<br/>
+
+**Full-Stack & Mobile Developer · Competitive Programming · Cybersecurity & CTF · Open Source**
+
+<br/>
 
 <img
-src="https://komarev.com/ghpvc/?username=tedyclivel&color=00d4ff&style=flat"
-alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=tedyclivel&label=PROFILE+VIEWS&color=0ea5e9&style=flat"
+alt="Profile views"
 />
 
 </div>
@@ -20,31 +29,21 @@ alt="Profile Views"
 
 ## 👨‍💻 About Me
 
-I'm **Tedy Clivel**, a developer passionate about software development, algorithms, cybersecurity and creative technology.
-
-I enjoy building modern applications, solving challenging programming problems and understanding how systems behave internally.
-
-My main interests are:
-
-* 💻 Full-Stack Development
-* 📱 Mobile Development
-* 🧠 Algorithms & Competitive Programming
-* 🔐 Cybersecurity & CTF
-* 🎨 Creative Coding & Interactive Experiences
-* 🌍 Open Source
-
 ```javascript
 const tedy = {
-  role: "Full-Stack Developer",
+  role: "Software Developer",
+
+  development: [
+    "Full-Stack Development",
+    "Mobile Development",
+    "Creative Web Experiences"
+  ],
 
   interests: [
-    "Web Development",
-    "Mobile Development",
     "Algorithms",
     "Competitive Programming",
     "Cybersecurity",
     "CTF",
-    "Creative Coding",
     "Open Source"
   ],
 
@@ -52,65 +51,89 @@ const tedy = {
 };
 ```
 
+I'm **Tedy Clivel**, a developer who enjoys creating software and understanding what happens beneath the abstractions.
+
+I like combining three different perspectives:
+
+> **Development** teaches me how to build.
+> **Competitive programming** teaches me how to solve.
+> **Cybersecurity** teaches me how systems break.
+
+My goal is to continuously improve through **projects, challenges, experimentation and collaboration**.
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42" height="42" alt="Angular"/>
+### Web & Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular&theme=dark" />
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
+### Mobile · Backend · Database
+
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,postgres&theme=dark" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 <br/>
 
-**Frontend:** HTML5 · CSS3 · Tailwind CSS · JavaScript · TypeScript · React · Next.js · Angular
-**Mobile:** Flutter · React Native
-**Backend:** Node.js · TypeScript
-**Database:** PostgreSQL
-**Creative:** Three.js · WebGL · Canvas
-**Tools:** Git · GitHub · VS Code
+<div align="center">
+
+`HTML` · `CSS` · `Tailwind CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Angular`
+
+`Flutter` · `React Native` · `Node.js` · `PostgreSQL`
+
+`Three.js` · `WebGL` · `Canvas` · `Git` · `GitHub`
+
+</div>
 
 ---
 
 ## 💡 What I Do
 
-* Build responsive and interactive web applications
-* Develop cross-platform mobile applications
-* Create full-stack applications and APIs
-* Work with databases and application architecture
-* Solve algorithmic programming problems
-* Explore cybersecurity through practical labs and CTF challenges
-* Experiment with animations, 3D graphics and creative interfaces
-* Learn from open-source projects and real-world codebases
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Development
+
+* Modern responsive interfaces
+* Full-stack applications
+* REST APIs
+* Mobile applications
+* Database-driven systems
+* Interactive web experiences
+* Performance & code quality
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Exploration
+
+* Algorithms & data structures
+* Competitive programming
+* Cybersecurity
+* Capture The Flag
+* Open-source projects
+* 3D & creative development
+* Software architecture
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -118,141 +141,206 @@ const tedy = {
 
 <div align="center">
 
-### Think → Analyze → Optimize → Solve
-
-<a href="https://leetcode.com/u/OrkZCWnIpH/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="44" height="44" alt="LeetCode"/></a>
-       <a href="https://codeforces.com/profile/NoxCipher_"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="44" height="44" alt="Codeforces"/></a>
+### `Think → Analyze → Optimize → Solve`
 
 <br/>
 
-**[LeetCode](https://leetcode.com/u/OrkZCWnIpH/)** · **[Codeforces](https://codeforces.com/profile/NoxCipher_)**
+<a href="https://leetcode.com/u/OrkZCWnIpH/">
+  <img
+    src="https://cdn.simpleicons.org/leetcode/FFA116"
+    width="52"
+    height="52"
+    alt="LeetCode"
+  />
+</a>
+
+        
+
+<a href="https://codeforces.com/profile/NoxCipher_">
+  <img
+    src="https://cdn.simpleicons.org/codeforces/1F8ACB"
+    width="52"
+    height="52"
+    alt="Codeforces"
+  />
+</a>
+
+<br/><br/>
+
+**[LeetCode](https://leetcode.com/u/OrkZCWnIpH/)**   •  
+**[Codeforces](https://codeforces.com/profile/NoxCipher_)**
 
 </div>
 
-I enjoy programming challenges because they help me strengthen:
+<br/>
 
-**Algorithms · Data Structures · Logical Reasoning · Optimization · Complexity Analysis · Problem Decomposition**
+Competitive programming helps me improve my:
 
-Competitive programming teaches me to think beyond simply making something work and to ask:
+<div align="center">
 
-> **What is the most efficient way to solve this problem?**
+`Algorithms` · `Data Structures` · `Logical Reasoning` · `Optimization` · `Complexity Analysis` · `Problem Decomposition`
+
+</div>
+
+<br/>
+
+> Building software asks: **How can I make this work?**
+> Competitive programming adds: **How can I solve it efficiently?**
 
 ---
 
 ## 🔐 Cybersecurity & CTF
 
-Cybersecurity is another field I'm passionate about.
-
-I enjoy learning through practical labs and **Capture The Flag (CTF)** environments where I can understand how systems work, how vulnerabilities appear and how software can be better protected.
+I enjoy learning cybersecurity through **practical labs, vulnerable environments and Capture The Flag challenges**.
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center">
 <a href="https://www.hackthebox.com/">
-<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="46" height="46" alt="Hack The Box"/>
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="52" height="52" alt="Hack The Box"/>
 </a>
-<br/>
-<strong>Hack The Box</strong>
-</td>
 
-<td align="center">
+        
+
 <a href="https://www.root-me.org/">
-<img src="https://www.root-me.org/favicon.ico" width="46" height="46" alt="Root-Me"/>
+  <img src="https://www.root-me.org/favicon.ico" width="52" height="52" alt="Root-Me"/>
 </a>
-<br/>
-<strong>Root-Me</strong>
-</td>
 
-<td align="center">
+        
+
 <a href="https://tryhackme.com/">
-<img src="https://cdn.simpleicons.org/tryhackme/88CC14" width="46" height="46" alt="TryHackMe"/>
+  <img src="https://cdn.simpleicons.org/tryhackme/88CC14" width="52" height="52" alt="TryHackMe"/>
 </a>
-<br/>
-<strong>TryHackMe</strong>
-</td>
 
-</tr>
-</table>
+<br/><br/>
 
-</div>
+**Hack The Box**   •  
+**Root-Me**   •  
+**TryHackMe**
 
-<div align="center">
+<br/><br/>
 
-**Web Security** · **Linux** · **Networking** · **Cryptography** · **Application Security** · **Reverse Engineering** · **Digital Investigation** · **CTF**
+`Web Security` · `Linux` · `Networking` · `Cryptography` · `Application Security` · `Reverse Engineering` · `CTF`
 
 </div>
 
 <br/>
 
-My interest in cybersecurity complements software development: understanding how systems can fail helps me think more carefully about how they should be built and protected.
+Cybersecurity gives me another perspective on software:
+
+> **Understanding how systems fail helps me understand how they should be built.**
 
 ---
 
 ## 🌍 Open Source
 
-I'm interested in contributing to open-source projects and learning from real-world codebases.
+I'm interested in exploring real-world codebases and contributing to open-source projects.
 
-I enjoy exploring repositories, understanding their architecture and finding ways to contribute through:
+Areas where I enjoy contributing or learning:
 
-**Bug Fixes · Testing · Documentation · Frontend Improvements · Performance · Features · Code Review**
+<div align="center">
 
-I'm especially interested in projects where I can **learn while contributing**.
+`Bug Fixes` · `Testing` · `Documentation` · `Frontend` · `Performance` · `Features` · `Code Review`
+
+</div>
+
+<br/>
+
+I'm especially interested in projects where I can **learn while contributing** and interact with developers working on interesting technical problems.
 
 ---
 
-## 🧠 Currently Exploring
+## 🧭 Currently Exploring
 
-| Area                    | Focus                                                     |
-| ----------------------- | --------------------------------------------------------- |
-| 💻 Web Development      | React · Next.js · Tailwind CSS · Application Architecture |
-| 📱 Mobile               | Flutter · React Native                                    |
-| 🧠 Problem Solving      | Algorithms · Data Structures · Competitive Programming    |
-| 🔐 Cybersecurity        | CTF · Web Security · Linux · Networking                   |
-| 🎨 Creative Development | Three.js · WebGL · Interactive Experiences                |
-| 🌍 Collaboration        | Git · GitHub · Open Source Workflows                      |
+<table>
+<tr>
+<td>💻 Web Development</td>
+<td>React · Next.js · Tailwind CSS · Architecture</td>
+</tr>
+
+<tr>
+<td>📱 Mobile Development</td>
+<td>Flutter · React Native</td>
+</tr>
+
+<tr>
+<td>🧠 Problem Solving</td>
+<td>Algorithms · Data Structures · LeetCode · Codeforces</td>
+</tr>
+
+<tr>
+<td>🔐 Cybersecurity</td>
+<td>CTF · Web Security · Linux · Networking</td>
+</tr>
+
+<tr>
+<td>🎨 Creative Development</td>
+<td>Three.js · WebGL · Interactive Experiences</td>
+</tr>
+
+<tr>
+<td>🌍 Open Source</td>
+<td>Git · GitHub · Collaborative Workflows</td>
+</tr>
+</table>
 
 ---
 
 ## ✨ Featured Work
 
-### 🌍 Portfolio
+<div align="center">
 
-Explore my projects, experiments and creative work:
+### 🌐 Portfolio
 
 **[portfolio.tedyclivel1.workers.dev](https://portfolio.tedyclivel1.workers.dev/)**
 
-### 💼 Professional Profile
+Explore my projects, experiments and creative work.
 
-Connect with me on LinkedIn:
+<br/>
+
+### 💼 Professional Profile
 
 **[Tedy Clivel on LinkedIn](https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331)**
 
+</div>
+
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=tedyclivel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-height="165"
-alt="Tedy Clivel GitHub Statistics"
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=tedyclivel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A855F7"
+alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedyclivel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-height="165"
-alt="Tedy Clivel Top Languages"
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedyclivel&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+alt="Top Languages"
 />
 
 <br/><br/>
 
 <img
-src="https://streak-stats.demolab.com?user=tedyclivel&theme=tokyonight&hide_border=true"
-alt="Tedy Clivel GitHub Streak"
+width="65%"
+src="https://streak-stats.demolab.com?user=tedyclivel&hide_border=true&background=0D1117&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=tedyclivel&bg_color=0D1117&color=38BDF8&line=A855F7&point=FFFFFF&area=true&area_color=6366F1&hide_border=true"
+width="100%"
+alt="Contribution Graph"
 />
 
 </div>
@@ -273,8 +361,9 @@ alt="Tedy Clivel GitHub Streak"
     srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake eating my GitHub contributions"
+    width="100%"
   />
 </picture>
 
@@ -282,30 +371,57 @@ alt="Tedy Clivel GitHub Streak"
 
 ---
 
-## 🎯 Current Goals
+## 🌟 Current Focus
 
-* Build more ambitious full-stack applications
-* Improve my mobile development skills
-* Strengthen my algorithms and data structures knowledge
-* Solve more LeetCode and Codeforces challenges
-* Improve my cybersecurity and CTF skills
-* Contribute to open-source projects
-* Learn from larger and more complex codebases
-* Improve software architecture and code quality
-* Build creative and interactive experiences
-* Collaborate with developers around the world
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center"><b>💻 Web</b></td>
+<td align="center"><b>📱 Mobile</b></td>
+<td align="center"><b>🧠 Algorithms</b></td>
+<td align="center"><b>🔐 Security</b></td>
+<td align="center"><b>🌍 Open Source</b></td>
+</tr>
+
+<tr>
+<td align="center">React<br/>Next.js<br/>Tailwind CSS</td>
+<td align="center">Flutter<br/>React Native</td>
+<td align="center">LeetCode<br/>Codeforces<br/>DSA</td>
+<td align="center">HTB<br/>Root-Me<br/>TryHackMe</td>
+<td align="center">Git<br/>GitHub<br/>Collaboration</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-## 🌟 Current Focus
+## 🎯 Goals
 
-|    | Area                    | Technologies / Platforms                             |
-| -- | ----------------------- | ---------------------------------------------------- |
-| 💻 | **Web Development**     | React · Next.js · Tailwind CSS                       |
-| 📱 | **Mobile Development**  | Flutter · React Native                               |
-| 🧠 | **Problem Solving**     | Algorithms · Data Structures · LeetCode · Codeforces |
-| 🔐 | **Cybersecurity & CTF** | Hack The Box · Root-Me · TryHackMe                   |
-| 🌍 | **Open Source**         | Git · GitHub · Collaboration                         |
+<div align="center">
+
+`Build Better Software`
+
+↓
+
+`Strengthen Algorithms`
+
+↓
+
+`Improve Cybersecurity Skills`
+
+↓
+
+`Contribute to Open Source`
+
+↓
+
+`Collaborate & Keep Learning`
+
+</div>
 
 ---
 
@@ -313,63 +429,72 @@ alt="Tedy Clivel GitHub Streak"
 
 <div align="center">
 
-I'm always open to discussing **software development, algorithms, competitive programming, cybersecurity, open source and collaboration**.
+I'm open to discussing **development, algorithms, cybersecurity, CTF, open source and collaboration**.
 
 <br/><br/>
 
-<table>
-<tr>
-
-<td align="center">
 <a href="https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    width="42"
+    height="42"
+    alt="LinkedIn"
+  />
 </a>
-<br/>
-<strong>LinkedIn</strong>
-</td>
 
-<td align="center">
+      
+
 <a href="https://github.com/tedyclivel">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    width="42"
+    height="42"
+    alt="GitHub"
+  />
 </a>
-<br/>
-<strong>GitHub</strong>
-</td>
 
-<td align="center">
+      
+
 <a href="https://leetcode.com/u/OrkZCWnIpH/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36" alt="LeetCode"/>
+  <img
+    src="https://cdn.simpleicons.org/leetcode/FFA116"
+    width="42"
+    height="42"
+    alt="LeetCode"
+  />
 </a>
-<br/>
-<strong>LeetCode</strong>
-</td>
 
-<td align="center">
+      
+
 <a href="https://codeforces.com/profile/NoxCipher_">
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="36" height="36" alt="Codeforces"/>
+  <img
+    src="https://cdn.simpleicons.org/codeforces/1F8ACB"
+    width="42"
+    height="42"
+    alt="Codeforces"
+  />
 </a>
-<br/>
-<strong>Codeforces</strong>
-</td>
 
-<td align="center">
+      
+
 <a href="mailto:tedyclivel1@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email"/>
+  <img
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    width="42"
+    height="42"
+    alt="Email"
+  />
 </a>
-<br/>
-<strong>Email</strong>
-</td>
 
-<td align="center">
-<a href="https://portfolio.tedyclivel1.workers.dev/">
-🌐
-</a>
-<br/>
-<strong>Portfolio</strong>
-</td>
+<br/><br/>
 
-</tr>
-</table>
+**[Portfolio](https://portfolio.tedyclivel1.workers.dev/)**
+  ·  
+**[LinkedIn](https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331)**
+  ·  
+**[GitHub](https://github.com/tedyclivel)**
+  ·  
+**[Email](mailto:tedyclivel1@gmail.com)**
 
 </div>
 
@@ -379,27 +504,46 @@ I'm always open to discussing **software development, algorithms, competitive pr
 
 <div align="center">
 
-### `Build → Solve → Break → Understand → Improve`
+### `BUILD → SOLVE → BREAK → UNDERSTAND → IMPROVE`
+
+<br/>
+
+### Development
+
+**How do I build it?**
+
+↓
+
+### Algorithms
+
+**How do I solve it efficiently?**
+
+↓
+
+### Cybersecurity
+
+**How can it fail?**
+
+↓
+
+### Engineering
+
+**How can I make it better?**
+
+<br/>
 
 > **Learn by building. Improve by solving. Grow by collaborating.**
 
 </div>
 
-Building software teaches me **how things work**.
-
-Competitive programming teaches me **how to solve problems efficiently**.
-
-Cybersecurity teaches me **how systems can fail and how they can be protected**.
-
-Open source teaches me **how developers build together**.
-
 ---
 
 <div align="center">
 
-## Thanks for visiting 👋
-
-**Development · Algorithms · Competitive Programming · Cybersecurity · CTF · Open Source**
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&lines=Always+learning...;Always+building...;Always+improving..."
+alt="Footer animation"
+/>
 
 ```javascript
 while (alive) {
@@ -410,6 +554,19 @@ while (alive) {
 }
 ```
 
+### Thanks for visiting
+
+**Development · Algorithms · Competitive Programming · Cybersecurity · CTF · Open Source**
+
+<br/>
+
 **[Tedy Clivel](https://github.com/tedyclivel)**
+
+<br/>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,35:0EA5E9,70:6366F1,100:A855F7"
+/>
 
 </div>
