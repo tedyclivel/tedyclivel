@@ -82,58 +82,46 @@ const tedy = {
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&repeat=true&width=950&height=40&lines=I+build+software+to+understand+technology.;I+solve+problems+to+improve+the+way+I+think.;I+study+security+to+understand+how+systems+fail."
-alt="About philosophy"
-/>
-
-</div>
-
-<br/>
-
-<table>
+<table width="85%">
 <tr>
 
 <td align="center" width="33%">
 
-### 💻 **BUILD**
+<h2>💻</h2>
+<h3>BUILD</h3>
 
-`Full-Stack`
-
-`Mobile`
-
-`Web Experiences`
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 **SOLVE**
-
-`Algorithms`
-
-`Data Structures`
-
-`Competitive Programming`
+<code>Full-Stack</code><br/><br/>
+<code>Mobile</code><br/><br/>
+<code>Web Experiences</code>
 
 </td>
 
 <td align="center" width="33%">
 
-### 🔐 **UNDERSTAND**
+<h2>🧠</h2>
+<h3>SOLVE</h3>
 
-`Cybersecurity`
+<code>Algorithms</code><br/><br/>
+<code>Data Structures</code><br/><br/>
+<code>Competitive Programming</code>
 
-`CTF`
+</td>
 
-`System Security`
+<td align="center" width="33%">
+
+<h2>🔐</h2>
+<h3>UNDERSTAND</h3>
+
+<code>Cybersecurity</code><br/><br/>
+<code>CTF</code><br/><br/>
+<code>System Security</code>
 
 </td>
 
 </tr>
 </table>
 
-<br/>
+</div>
 
 <!-- ========================================================= -->
 
@@ -303,92 +291,53 @@ alt="Open Source philosophy"
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=Currently+Exploring"
-alt="Currently Exploring"
-/>
-
-</div>
-
-<table>
-
+<table width="90%">
 <tr>
 
 <td align="center" width="20%">
-
-### 💻
-
-### **WEB**
-
-<code>React</code>
-
-<code>Next.js</code>
-
+<h3>💻</h3>
+<h3>WEB</h3>
+<code>React</code><br/><br/>
+<code>Next.js</code><br/><br/>
 <code>Tailwind</code>
-
 </td>
 
 <td align="center" width="20%">
-
-### 📱
-
-### **MOBILE**
-
-<code>Flutter</code>
-
-<code>React Native</code>
-
+<h3>📱</h3>
+<h3>MOBILE</h3>
+<code>Flutter</code><br/><br/>
+<code>React Native</code><br/><br/>
 <code>Cross-platform</code>
-
 </td>
 
 <td align="center" width="20%">
-
-### 🧠
-
-### **ALGORITHMS**
-
-<code>DSA</code>
-
-<code>LeetCode</code>
-
+<h3>🧠</h3>
+<h3>ALGORITHMS</h3>
+<code>DSA</code><br/><br/>
+<code>LeetCode</code><br/><br/>
 <code>Codeforces</code>
-
 </td>
 
 <td align="center" width="20%">
-
-### 🔐
-
-### **SECURITY**
-
-<code>HTB</code>
-
-<code>Root-Me</code>
-
+<h3>🔐</h3>
+<h3>SECURITY</h3>
+<code>HTB</code><br/><br/>
+<code>Root-Me</code><br/><br/>
 <code>TryHackMe</code>
-
 </td>
 
 <td align="center" width="20%">
-
-### 🌍
-
-### **OPEN SOURCE**
-
-<code>Git</code>
-
-<code>GitHub</code>
-
+<h3>🌍</h3>
+<h3>OPEN SOURCE</h3>
+<code>Git</code><br/><br/>
+<code>GitHub</code><br/><br/>
 <code>Collaboration</code>
-
 </td>
 
 </tr>
-
 </table>
 
-<br/>
+</div>
 
 <!-- ========================================================= -->
 
@@ -549,92 +498,115 @@ alt="Contribution Snake"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=650&height=55&lines=Current+Focus"
-alt="Current Focus"
+  src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=650&height=55&lines=Current+Focus"
+  alt="Current Focus"
 />
 
-</div>
+<br/><br/>
 
-|   💻 **WEB**   |   📱 **MOBILE**  | 🧠 **ALGORITHMS** | 🔐 **SECURITY** | 🌍 **OPEN SOURCE** |
-| :------------: | :--------------: | :---------------: | :-------------: | :----------------: |
-|     `React`    |     `Flutter`    |       `DSA`       |      `HTB`      |        `Git`       |
-|    `Next.js`   |  `React Native`  |     `LeetCode`    |    `Root-Me`    |      `GitHub`      |
-| `Tailwind CSS` | `Cross-platform` |    `Codeforces`   |   `TryHackMe`   |   `Collaboration`  |
-| `Architecture` |     `UI / UX`    |   `Optimization`  |      `CTF`      |   `Contributions`  |
-
-<br/>
-
-<!-- ========================================================= -->
-
-<!--                        PHILOSOPHY                         -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=600&height=55&lines=My+Philosophy"
-alt="My Philosophy"
-/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&height=50&lines=BUILD+%E2%86%92+SOLVE+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE"
-alt="Development Philosophy"
-/>
-
-</div>
-
-<table>
+<table width="85%">
 <tr>
 
-<td align="center" width="25%">
-
-## 💻
-
-### **BUILD**
-
-<sub>Create useful software.</sub>
-
+<td align="center" width="20%">
+<h3>💻 WEB</h3>
+<code>React</code><br/><br/>
+<code>Next.js</code><br/><br/>
+<code>Tailwind CSS</code><br/><br/>
+<code>Architecture</code>
 </td>
 
-<td align="center" width="25%">
-
-## 🧠
-
-### **SOLVE**
-
-<sub>Think efficiently.</sub>
-
+<td align="center" width="20%">
+<h3>📱 MOBILE</h3>
+<code>Flutter</code><br/><br/>
+<code>React Native</code><br/><br/>
+<code>Cross-platform</code><br/><br/>
+<code>UI / UX</code>
 </td>
 
-<td align="center" width="25%">
-
-## 🔐
-
-### **BREAK**
-
-<sub>Understand failure.</sub>
-
+<td align="center" width="20%">
+<h3>🧠 ALGORITHMS</h3>
+<code>DSA</code><br/><br/>
+<code>LeetCode</code><br/><br/>
+<code>Codeforces</code><br/><br/>
+<code>Optimization</code>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
+<h3>🔐 SECURITY</h3>
+<code>HTB</code><br/><br/>
+<code>Root-Me</code><br/><br/>
+<code>TryHackMe</code><br/><br/>
+<code>CTF</code>
+</td>
 
-## 🚀
-
-### **IMPROVE**
-
-<sub>Build it better.</sub>
-
+<td align="center" width="20%">
+<h3>🌍 OPEN SOURCE</h3>
+<code>Git</code><br/><br/>
+<code>GitHub</code><br/><br/>
+<code>Collaboration</code><br/><br/>
+<code>Contributions</code>
 </td>
 
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                        PHILOSOPHY                         -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4000&pause=1200&color=C4B5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Learn+by+building.;Improve+by+solving.;Grow+by+collaborating."
-alt="Personal philosophy"
+  src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=600&height=55&lines=My+Philosophy"
+  alt="My Philosophy"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&height=50&lines=BUILD+%E2%86%92+SOLVE+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE"
+  alt="Development Philosophy"
+/>
+
+<br/><br/>
+
+<table width="85%">
+<tr>
+
+<td align="center" width="25%">
+<h2>💻</h2>
+<h3>BUILD</h3>
+<sub>Create useful software.</sub>
+</td>
+
+<td align="center" width="25%">
+<h2>🧠</h2>
+<h3>SOLVE</h3>
+<sub>Think efficiently.</sub>
+</td>
+
+<td align="center" width="25%">
+<h2>🔐</h2>
+<h3>BREAK</h3>
+<sub>Understand failure.</sub>
+</td>
+
+<td align="center" width="25%">
+<h2>🚀</h2>
+<h3>IMPROVE</h3>
+<sub>Build it better.</sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4000&pause=1200&color=C4B5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Learn+by+building.;Improve+by+solving.;Grow+by+collaborating."
+  alt="Personal philosophy"
 />
 
 </div>
