@@ -35,7 +35,7 @@ My interests sit at the intersection of:
 * 🎨 Creative Coding & Interactive Experiences
 * 🌍 Open Source
 
-I enjoy understanding not only **how to build software**, but also how it behaves, how it can be optimized, and how it can fail.
+I enjoy understanding not only **how to build software**, but also how it behaves, how it can be optimized, how it can fail, and how it can be improved.
 
 ```javascript
 const tedy = {
@@ -185,17 +185,27 @@ Competitive programming gives me a different way to approach software: instead o
 
 Cybersecurity is another field I'm passionate about.
 
-I enjoy learning through labs, challenges and **Capture The Flag** environments where I can explore how systems behave, how vulnerabilities appear and how they can be understood.
+I enjoy learning through labs, challenges and **Capture The Flag (CTF)** environments, where I can explore how systems behave, how vulnerabilities appear and how they can be understood.
 
 <div align="center">
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="48" alt="Hack The Box"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.root-me.org/favicon.ico" width="48" alt="Root-Me"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tryhackme/88CC14" width="48" alt="TryHackMe"/>
+<a href="https://www.hackthebox.com/">
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="48" alt="Hack The Box"/>
+</a>
+
+      
+
+<a href="https://www.root-me.org/">
+  <img src="https://www.root-me.org/favicon.ico" width="48" alt="Root-Me"/>
+</a>
+
+      
+
+<a href="https://tryhackme.com/">
+  <img src="https://cdn.simpleicons.org/tryhackme/88CC14" width="48" alt="TryHackMe"/>
+</a>
 
 <br/><br/>
 
@@ -211,16 +221,16 @@ I enjoy learning through labs, challenges and **Capture The Flag** environments 
 
 Areas I'm interested in exploring include:
 
-* Web security
+* Web Security
 * Linux
 * Networking
 * Cryptography
-* Application security
-* Reverse engineering
-* Digital investigation
-* CTF challenges
+* Application Security
+* Reverse Engineering
+* Digital Investigation
+* Capture The Flag challenges
 
-My interest in cybersecurity complements development: understanding how software can fail helps me think more carefully about how software should be built.
+My interest in cybersecurity complements development: understanding how software can fail helps me think more carefully about how software should be built and protected.
 
 ---
 
@@ -349,28 +359,43 @@ alt="Tedy Clivel GitHub Streak"
 
 <div align="center">
 
-**💻 Web Development**
-React · Next.js · Tailwind CSS
+### 💻 Web Development
 
-<br/><br/>
+**React · Next.js · Tailwind CSS**
 
-**📱 Mobile Development**
-Flutter · React Native
+Building modern, responsive and scalable web applications.
 
-<br/><br/>
+<br/>
 
-**🧠 Problem Solving**
-Algorithms · LeetCode · Codeforces
+### 📱 Mobile Development
 
-<br/><br/>
+**Flutter · React Native**
 
-**🔐 Cybersecurity**
-Hack The Box · Root-Me · TryHackMe · CTF
+Creating cross-platform mobile experiences and improving my mobile development skills.
 
-<br/><br/>
+<br/>
 
-**🌍 Open Source**
-Git · GitHub · Collaboration
+### 🧠 Problem Solving & Competitive Programming
+
+**Algorithms · Data Structures · LeetCode · Codeforces**
+
+Strengthening my logical thinking, algorithmic skills and problem-solving efficiency.
+
+<br/>
+
+### 🔐 Cybersecurity & CTF
+
+**Hack The Box · Root-Me · TryHackMe · CTF**
+
+Learning cybersecurity through practical labs, challenges and security-focused environments.
+
+<br/>
+
+### 🌍 Open Source
+
+**Git · GitHub · Collaboration**
+
+Exploring real-world codebases, learning collaborative workflows and looking for opportunities to contribute.
 
 </div>
 
@@ -380,43 +405,39 @@ Git · GitHub · Collaboration
 
 <div align="center">
 
-I'm open to discussing **development, algorithms, cybersecurity, open source and collaboration**.
+I'm always open to discussing **software development, algorithms, competitive programming, cybersecurity, open source and collaboration**.
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
 </a>
-
-    
-
-<a href="https://portfolio.tedyclivel1.workers.dev/">
-  🌐
-</a>
-
-    
-
-<a href="mailto:tedyclivel1@gmail.com">
-  ✉️
-</a>
-
-    
-
-<a href="https://leetcode.com/u/OrkZCWnIpH/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="34" alt="LeetCode"/>
-</a>
-
-    
-
-<a href="https://codeforces.com/profile/NoxCipher_">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="34" alt="Codeforces"/>
-</a>
-
-    
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/tedyclivel">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="34" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/808080" width="32" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/OrkZCWnIpH/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/NoxCipher_">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" alt="Codeforces"/>
+</a>
+
+<br/><br/>
+
+**[Portfolio](https://portfolio.tedyclivel1.workers.dev/)**
+   •   
+**[LinkedIn](https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331)**
+   •   
+**[GitHub](https://github.com/tedyclivel)**
+   •   
+**[Email](mailto:tedyclivel1@gmail.com)**
+
+<br/><br/>
+
+📧 **[tedyclivel1@gmail.com](mailto:tedyclivel1@gmail.com)**
 
 </div>
 
