@@ -567,39 +567,79 @@ alt="LinkedIn description"
 
 <!-- ========================================================= -->
 
-<div align="center">
+
+
+<!-- STATS + LANGUAGES HORIZONTAL -->
+
+<table width="90%">
+<tr>
+
+<td align="center" width="50%">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GitHub+Analytics"
-alt="GitHub Analytics"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tedyclivel&theme=transparent&title_color=38BDF8&text_color=A5B4FC&bg_color=00000000&border_color=6366F1&icon_color=A855F7&animation=stagger"
+  alt="GitHub Statistics"
 />
 
-<br/>
+</td>
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=tedyclivel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=A5B4FC&icon_color=A855F7"
-alt="GitHub Stats"
-/>
+<td align="center" width="50%">
 
 <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedyclivel&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=BAE6FD"
-alt="Top Languages"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tedyclivel&theme=transparent&title_color=A78BFA&text_color=BAE6FD&bg_color=00000000&border_color=6366F1&chart_color=38BDF8&animation=load"
+  alt="Most Used Languages"
 />
+
+</td>
+
+</tr>
+</table>
 
 <br/><br/>
 
+<!-- COMMIT LANGUAGES + PRODUCTIVITY -->
+
+<table width="90%">
+<tr>
+
+<td align="center" width="50%">
+
 <img
-width="68%"
-src="https://streak-stats.demolab.com?user=tedyclivel&hide_border=true&background=00000000&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8&sideLabels=A5B4FC&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
-alt="GitHub Streak"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tedyclivel&theme=transparent&title_color=38BDF8&text_color=A5B4FC&bg_color=00000000&border_color=6366F1&chart_color=A855F7&animation=sequence"
+  alt="Languages By Commit"
+/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tedyclivel&theme=transparent&utcOffset=1&title_color=A78BFA&text_color=BAE6FD&bg_color=00000000&border_color=6366F1&icon_color=38BDF8&animation=rise"
+  alt="Productive Time"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- STREAK -->
+
+<img
+  width="65%"
+  src="https://streak-stats.demolab.com?user=tedyclivel&hide_border=true&background=00000000&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8&sideLabels=A5B4FC&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  alt="GitHub Streak"
 />
 
 </div>
 
 <br/>
-
 <!-- ========================================================= -->
 
 <!--                    ACTIVITY GRAPH                         -->
@@ -609,14 +649,23 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=750&height=55&lines=Contribution+Activity"
-alt="Contribution Activity"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=750&height=55&lines=Contribution+Activity"
+  alt="Contribution Activity"
 />
 
+<br/><br/>
+
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=tedyclivel&bg_color=00000000&color=38BDF8&line=A855F7&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true"
-width="100%"
-alt="Contribution Graph"
+  width="92%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tedyclivel&theme=dark&bg_color=00000000&title_color=38BDF8&text_color=A5B4FC&border_color=6366F1&icon_color=A855F7&chart_color=38BDF8&animation=draw"
+  alt="Tedy Clivel Contribution Activity"
+/>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=C4B5FD&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Commit+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve;Consistency+creates+progress."
+  alt="Contribution philosophy"
 />
 
 </div>
