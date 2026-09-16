@@ -70,40 +70,42 @@ Connect with me on LinkedIn:
 ## 🎬 Animated Showcase
 
 <div align="center">
-  <canvas id="animationCanvas" width="400" height="200" style="border: 2px solid #00d4ff; border-radius: 8px; margin: 20px 0; background: #0a0e27;"></canvas>
+  <canvas id="animationCanvas" width="600" height="300" style="border: 2px solid #00d4ff; border-radius: 8px; margin: 20px 0; background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); display: block;"></canvas>
 </div>
 
 <script>
-// Interactive animation for GitHub profile
-function initAnimation() {
+(function() {
   const canvas = document.getElementById('animationCanvas');
   if (!canvas) return;
   
   const ctx = canvas.getContext('2d');
   let animationId;
   let particles = [];
+  let time = 0;
 
   class Particle {
     constructor(x, y) {
       this.x = x;
       this.y = y;
-      this.vx = (Math.random() - 0.5) * 4;
-      this.vy = (Math.random() - 0.5) * 4;
-      this.size = Math.random() * 3 + 2;
-      this.color = ['#00d4ff', '#00ff88', '#ff006e', '#ffbe0b'][Math.floor(Math.random() * 4)];
+      this.vx = (Math.random() - 0.5) * 6;
+      this.vy = -Math.random() * 3 - 2;
+      this.size = Math.random() * 4 + 2;
+      this.color = ['#00d4ff', '#00ff88', '#ff006e', '#ffbe0b', '#00d4ff'][Math.floor(Math.random() * 5)];
       this.life = 1;
+      this.decay = Math.random() * 0.005 + 0.003;
     }
 
     update() {
       this.x += this.vx;
       this.y += this.vy;
-      this.vy += 0.1; // gravity
-      this.life -= 0.01;
+      this.vy += 0.15;
+      this.vx *= 0.99;
+      this.life -= this.decay;
     }
 
     draw(ctx) {
       ctx.fillStyle = this.color;
-      ctx.globalAlpha = this.life;
+      ctx.globalAlpha = Math.max(0, this.life);
       ctx.beginPath();
       ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
       ctx.fill();
@@ -111,17 +113,56 @@ function initAnimation() {
     }
   }
 
+  function drawText() {
+    ctx.font = 'bold 32px Arial';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    
+    const gradient = ctx.createLinearGradient(0, 0, canvas.width, 0);
+    gradient.addColorStop(0, '#00d4ff');
+    gradient.addColorStop(0.5, '#00ff88');
+    gradient.addColorStop(1, '#ff006e');
+    
+    ctx.fillStyle = gradient;
+    ctx.fillText('Creative Developer', canvas.width / 2, 80);
+    
+    ctx.font = '18px Arial';
+    ctx.fillStyle = '#00d4ff';
+    ctx.fillText('Full-Stack | Mobile | Interactive Experiences', canvas.width / 2, 150);
+  }
+
+  function drawLines() {
+    ctx.strokeStyle = 'rgba(0, 212, 255, 0.1)';
+    ctx.lineWidth = 1;
+    for (let i = 0; i < 3; i++) {
+      const offset = Math.sin(time * 0.002 + i) * 20;
+      ctx.beginPath();
+      ctx.moveTo(0, 200 + offset);
+      ctx.lineTo(canvas.width, 200 + offset);
+      ctx.stroke();
+    }
+  }
+
   function animate() {
-    // Clear canvas with fade effect
-    ctx.fillStyle = 'rgba(10, 14, 39, 0.1)';
+    time++;
+    
+    // Fade effect instead of full clear
+    ctx.fillStyle = 'rgba(10, 14, 39, 0.2)';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-    // Create new particles randomly
-    if (Math.random() < 0.3) {
-      particles.push(new Particle(
-        Math.random() * canvas.width,
-        Math.random() * canvas.height
-      ));
+    // Create particles from multiple points
+    if (time % 3 === 0) {
+      const points = [
+        { x: canvas.width / 4, y: canvas.height * 0.7 },
+        { x: canvas.width / 2, y: canvas.height * 0.7 },
+        { x: (canvas.width * 3) / 4, y: canvas.height * 0.7 }
+      ];
+      
+      points.forEach(point => {
+        if (Math.random() < 0.6) {
+          particles.push(new Particle(point.x + (Math.random() - 0.5) * 30, point.y));
+        }
+      });
     }
 
     // Update and draw particles
@@ -133,31 +174,18 @@ function initAnimation() {
       }
     }
 
-    // Draw title
-    ctx.fillStyle = '#00d4ff';
-    ctx.font = 'bold 18px Arial';
-    ctx.textAlign = 'center';
-    ctx.fillText('Creative Developer', canvas.width / 2, 30);
-    
-    ctx.fillStyle = '#00ff88';
-    ctx.font = '14px Arial';
-    ctx.fillText('Full-Stack | Mobile | Creative Coding', canvas.width / 2, 55);
+    // Draw animated elements
+    drawLines();
+    drawText();
 
     animationId = requestAnimationFrame(animate);
   }
 
   animate();
 
-  // Cleanup
-  return () => cancelAnimationFrame(animationId);
-}
-
-// Run animation when page loads
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', initAnimation);
-} else {
-  initAnimation();
-}
+  // Cleanup on page unload
+  window.addEventListener('beforeunload', () => cancelAnimationFrame(animationId));
+})();
 </script>
 
 ---
