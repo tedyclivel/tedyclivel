@@ -33,7 +33,7 @@ My main interests are:
 * 🎨 Creative Coding & Interactive Experiences
 * 🌍 Open Source
 
-```javascript id="9jj033"
+```javascript
 const tedy = {
   role: "Full-Stack Developer",
 
@@ -73,11 +73,11 @@ const tedy = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42" height="42" alt="Angular"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>
 
 <br/><br/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
@@ -120,25 +120,8 @@ const tedy = {
 
 ### Think → Analyze → Optimize → Solve
 
-<a href="https://leetcode.com/u/OrkZCWnIpH/">
-  <img
-    src="https://cdn.simpleicons.org/leetcode/FFA116"
-    width="44"
-    height="44"
-    alt="LeetCode"
-  />
-</a>
-
-      
-
-<a href="https://codeforces.com/profile/NoxCipher_">
-  <img
-    src="https://cdn.simpleicons.org/codeforces/1F8ACB"
-    width="44"
-    height="44"
-    alt="Codeforces"
-  />
-</a>
+<a href="https://leetcode.com/u/OrkZCWnIpH/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="44" height="44" alt="LeetCode"/></a>
+       <a href="https://codeforces.com/profile/NoxCipher_"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="44" height="44" alt="Codeforces"/></a>
 
 <br/>
 
@@ -164,46 +147,45 @@ I enjoy learning through practical labs and **Capture The Flag (CTF)** environme
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://www.hackthebox.com/">
-  <img
-    src="https://cdn.simpleicons.org/hackthebox/9FEF00"
-    width="44"
-    height="44"
-    alt="Hack The Box"
-  />
+<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="46" height="46" alt="Hack The Box"/>
 </a>
-
-      
-
-<a href="https://www.root-me.org/">
-  <img
-    src="https://www.root-me.org/favicon.ico"
-    width="44"
-    height="44"
-    alt="Root-Me"
-  />
-</a>
-
-      
-
-<a href="https://tryhackme.com/">
-  <img
-    src="https://cdn.simpleicons.org/tryhackme/88CC14"
-    width="44"
-    height="44"
-    alt="TryHackMe"
-  />
-</a>
-
 <br/>
+<strong>Hack The Box</strong>
+</td>
 
-**Hack The Box** · **Root-Me** · **TryHackMe**
+<td align="center">
+<a href="https://www.root-me.org/">
+<img src="https://www.root-me.org/favicon.ico" width="46" height="46" alt="Root-Me"/>
+</a>
+<br/>
+<strong>Root-Me</strong>
+</td>
+
+<td align="center">
+<a href="https://tryhackme.com/">
+<img src="https://cdn.simpleicons.org/tryhackme/88CC14" width="46" height="46" alt="TryHackMe"/>
+</a>
+<br/>
+<strong>TryHackMe</strong>
+</td>
+
+</tr>
+</table>
 
 </div>
 
-### Areas I'm interested in
+<div align="center">
 
-**Web Security · Linux · Networking · Cryptography · Application Security · Reverse Engineering · Digital Investigation · CTF**
+**Web Security** · **Linux** · **Networking** · **Cryptography** · **Application Security** · **Reverse Engineering** · **Digital Investigation** · **CTF**
+
+</div>
+
+<br/>
 
 My interest in cybersecurity complements software development: understanding how systems can fail helps me think more carefully about how they should be built and protected.
 
@@ -282,22 +264,18 @@ alt="Tedy Clivel GitHub Streak"
 <div align="center">
 
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake.svg"
-/>
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
@@ -339,67 +317,59 @@ I'm always open to discussing **software development, algorithms, competitive pr
 
 <br/><br/>
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-    width="38"
-    height="38"
-    alt="LinkedIn"
-  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
+<br/>
+<strong>LinkedIn</strong>
+</td>
 
-     
-
+<td align="center">
 <a href="https://github.com/tedyclivel">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    width="38"
-    height="38"
-    alt="GitHub"
-  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
 </a>
+<br/>
+<strong>GitHub</strong>
+</td>
 
-     
-
+<td align="center">
 <a href="https://leetcode.com/u/OrkZCWnIpH/">
-  <img
-    src="https://cdn.simpleicons.org/leetcode/FFA116"
-    width="38"
-    height="38"
-    alt="LeetCode"
-  />
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36" alt="LeetCode"/>
 </a>
+<br/>
+<strong>LeetCode</strong>
+</td>
 
-     
-
+<td align="center">
 <a href="https://codeforces.com/profile/NoxCipher_">
-  <img
-    src="https://cdn.simpleicons.org/codeforces/1F8ACB"
-    width="38"
-    height="38"
-    alt="Codeforces"
-  />
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="36" height="36" alt="Codeforces"/>
 </a>
+<br/>
+<strong>Codeforces</strong>
+</td>
 
-     
-
+<td align="center">
 <a href="mailto:tedyclivel1@gmail.com">
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="38"
-    height="38"
-    alt="Email"
-  />
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email"/>
 </a>
+<br/>
+<strong>Email</strong>
+</td>
 
-<br/><br/>
+<td align="center">
+<a href="https://portfolio.tedyclivel1.workers.dev/">
+🌐
+</a>
+<br/>
+<strong>Portfolio</strong>
+</td>
 
-**[LinkedIn](https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331)** ·
-**[GitHub](https://github.com/tedyclivel)** ·
-**[LeetCode](https://leetcode.com/u/OrkZCWnIpH/)** ·
-**[Codeforces](https://codeforces.com/profile/NoxCipher_)** ·
-**[Portfolio](https://portfolio.tedyclivel1.workers.dev/)** ·
-**[Email](mailto:tedyclivel1@gmail.com)**
+</tr>
+</table>
 
 </div>
 
@@ -431,7 +401,7 @@ Open source teaches me **how developers build together**.
 
 **Development · Algorithms · Competitive Programming · Cybersecurity · CTF · Open Source**
 
-```javascript id="z1tsg6"
+```javascript
 while (alive) {
   build();
   solve();
