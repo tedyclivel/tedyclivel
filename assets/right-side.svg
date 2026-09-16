@@ -1,16 +1,17 @@
-<svg width="110" height="520" viewBox="0 0 110 520"
+<svg width="42" height="760" viewBox="0 0 42 760"
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <linearGradient id="line" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#A78BFA" stop-opacity="0"/>
-      <stop offset="35%" stop-color="#A78BFA"/>
-      <stop offset="70%" stop-color="#818CF8"/>
+      <stop offset="20%" stop-color="#A78BFA"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="80%" stop-color="#38BDF8"/>
       <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
     </linearGradient>
 
     <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -18,66 +19,77 @@
     </filter>
   </defs>
 
-  <rect x="53" y="10" width="3" height="500"
-        rx="2" fill="url(#line)" opacity="0.75"/>
+  <rect
+    x="20"
+    y="0"
+    width="2"
+    height="760"
+    rx="1"
+    fill="url(#rail)"
+    opacity="0.5"
+  />
 
-  <circle cx="54.5" cy="500" r="5"
-          fill="#A78BFA" filter="url(#glow)">
+  <circle cx="21" cy="740" r="4" fill="#A78BFA" filter="url(#glow)">
     <animate
       attributeName="cy"
-      values="500;20;500"
-      dur="6s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="54.5" cy="350" r="3.5"
-          fill="#818CF8" filter="url(#glow)">
-    <animate
-      attributeName="cy"
-      values="350;60;470;350"
-      dur="8s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="54.5" cy="100" r="4"
-          fill="#38BDF8" filter="url(#glow)">
-    <animate
-      attributeName="cy"
-      values="100;440;100"
+      values="740;20;740"
       dur="7s"
-      repeatCount="indefinite"/>
+      repeatCount="indefinite"
+    />
   </circle>
 
-  <circle cx="54.5" cy="190" r="18"
+  <circle cx="21" cy="520" r="3" fill="#818CF8" filter="url(#glow)">
+    <animate
+      attributeName="cy"
+      values="520;90;680;520"
+      dur="9s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <circle cx="21" cy="120" r="3.5" fill="#38BDF8" filter="url(#glow)">
+    <animate
+      attributeName="cy"
+      values="120;650;120"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <circle cx="21" cy="280" r="7"
           fill="none"
           stroke="#A78BFA"
           stroke-width="1">
     <animate
       attributeName="r"
-      values="10;24;10"
-      dur="3.5s"
-      repeatCount="indefinite"/>
+      values="3;10;3"
+      dur="3s"
+      repeatCount="indefinite"
+    />
     <animate
       attributeName="opacity"
-      values=".15;.65;.15"
-      dur="3.5s"
-      repeatCount="indefinite"/>
+      values=".2;.9;.2"
+      dur="3s"
+      repeatCount="indefinite"
+    />
   </circle>
 
-  <circle cx="54.5" cy="390" r="18"
+  <circle cx="21" cy="570" r="7"
           fill="none"
           stroke="#38BDF8"
           stroke-width="1">
     <animate
       attributeName="r"
-      values="24;10;24"
+      values="10;3;10"
       dur="4s"
-      repeatCount="indefinite"/>
+      repeatCount="indefinite"
+    />
     <animate
       attributeName="opacity"
-      values=".65;.15;.65"
+      values=".8;.2;.8"
       dur="4s"
-      repeatCount="indefinite"/>
+      repeatCount="indefinite"
+    />
   </circle>
 
 </svg>
