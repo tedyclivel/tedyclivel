@@ -54,7 +54,7 @@ alt="About introduction"
 
 </div>
 
-```javascript
+```javascript id="z2q8ef"
 const tedy = {
   role: "Software Developer",
 
@@ -102,7 +102,7 @@ alt="Build"
 src="https://cdn.simpleicons.org/leetcode/FFA116"
 width="46"
 height="46"
-alt="Problem Solving"
+alt="Solve"
 />
 
 <h3>SOLVE</h3>
@@ -117,7 +117,7 @@ alt="Problem Solving"
 src="https://cdn.simpleicons.org/hackthebox/9FEF00"
 width="46"
 height="46"
-alt="Cybersecurity"
+alt="Understand"
 />
 
 <h3>UNDERSTAND</h3>
@@ -197,8 +197,6 @@ alt="Competitive Programming Process"
 />
 
 <br/><br/>
-
-<!-- ===== STRICT HORIZONTAL ROW ===== -->
 
 <table width="55%">
 <tr>
@@ -282,8 +280,6 @@ alt="Cybersecurity introduction"
 />
 
 <br/><br/>
-
-<!-- ===== STRICT HORIZONTAL ROW ===== -->
 
 <table width="70%">
 <tr>
@@ -396,106 +392,6 @@ alt="Open Source philosophy"
 
 <!-- ========================================================= -->
 
-<!--                    CURRENTLY EXPLORING                    -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=Currently+Exploring"
-alt="Currently Exploring"
-/>
-
-<br/>
-
-<table width="90%">
-<tr>
-
-<td align="center" width="20%">
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-width="44"
-height="44"
-alt="Web Development"
-/>
-
-<h3>WEB</h3>
-
-<code>React</code><br/><br/> <code>Next.js</code><br/><br/> <code>Tailwind</code>
-
-</td>
-
-<td align="center" width="20%">
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-width="44"
-height="44"
-alt="Mobile Development"
-/>
-
-<h3>MOBILE</h3>
-
-<code>Flutter</code><br/><br/> <code>React Native</code><br/><br/> <code>Cross-platform</code>
-
-</td>
-
-<td align="center" width="20%">
-
-<img
-src="https://cdn.simpleicons.org/leetcode/FFA116"
-width="44"
-height="44"
-alt="Algorithms"
-/>
-
-<h3>ALGORITHMS</h3>
-
-<code>DSA</code><br/><br/> <code>LeetCode</code><br/><br/> <code>Codeforces</code>
-
-</td>
-
-<td align="center" width="20%">
-
-<img
-src="https://cdn.simpleicons.org/hackthebox/9FEF00"
-width="44"
-height="44"
-alt="Security"
-/>
-
-<h3>SECURITY</h3>
-
-<code>HTB</code><br/><br/> <code>Root-Me</code><br/><br/> <code>TryHackMe</code>
-
-</td>
-
-<td align="center" width="20%">
-
-<img
-src="https://cdn.simpleicons.org/github/FFFFFF"
-width="44"
-height="44"
-alt="Open Source"
-/>
-
-<h3>OPEN SOURCE</h3>
-
-<code>Git</code><br/><br/> <code>GitHub</code><br/><br/> <code>Collaboration</code>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-
 <!--                      FEATURED WORK                        -->
 
 <!-- ========================================================= -->
@@ -567,105 +463,55 @@ alt="LinkedIn description"
 
 <!-- ========================================================= -->
 
-
-
-<!-- STATS + LANGUAGES HORIZONTAL -->
-
-<table width="90%">
-<tr>
-
-<td align="center" width="50%">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tedyclivel&theme=transparent&title_color=38BDF8&text_color=A5B4FC&bg_color=00000000&border_color=6366F1&icon_color=A855F7&animation=stagger"
-  alt="GitHub Statistics"
-/>
-
-</td>
-
-<td align="center" width="50%">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tedyclivel&theme=transparent&title_color=A78BFA&text_color=BAE6FD&bg_color=00000000&border_color=6366F1&chart_color=38BDF8&animation=load"
-  alt="Most Used Languages"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br/><br/>
-
-<!-- COMMIT LANGUAGES + PRODUCTIVITY -->
-
-<table width="90%">
-<tr>
-
-<td align="center" width="50%">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tedyclivel&theme=transparent&title_color=38BDF8&text_color=A5B4FC&bg_color=00000000&border_color=6366F1&chart_color=A855F7&animation=sequence"
-  alt="Languages By Commit"
-/>
-
-</td>
-
-<td align="center" width="50%">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tedyclivel&theme=transparent&utcOffset=1&title_color=A78BFA&text_color=BAE6FD&bg_color=00000000&border_color=6366F1&icon_color=38BDF8&animation=rise"
-  alt="Productive Time"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br/><br/>
-
-<!-- STREAK -->
-
-<img
-  width="65%"
-  src="https://streak-stats.demolab.com?user=tedyclivel&hide_border=true&background=00000000&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8&sideLabels=A5B4FC&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<br/>
-<!-- ========================================================= -->
-
-<!--                    ACTIVITY GRAPH                         -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=750&height=55&lines=Contribution+Activity"
-  alt="Contribution Activity"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GitHub+Analytics"
+alt="GitHub Analytics"
 />
 
 <br/><br/>
 
 <img
-  width="92%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tedyclivel&theme=dark&bg_color=00000000&title_color=38BDF8&text_color=A5B4FC&border_color=6366F1&icon_color=A855F7&chart_color=38BDF8&animation=draw"
-  alt="Tedy Clivel Contribution Activity"
+width="90%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tedyclivel&theme=github_dark"
+alt="GitHub Profile Details"
 />
 
 <br/><br/>
 
+<table width="90%">
+<tr>
+
+<td align="center" width="50%">
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=C4B5FD&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Commit+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve;Consistency+creates+progress."
-  alt="Contribution philosophy"
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tedyclivel&theme=github_dark"
+alt="GitHub Statistics"
+/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tedyclivel&theme=github_dark"
+alt="Languages by Repository"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img
+width="65%"
+src="https://streak-stats.demolab.com?user=tedyclivel&hide_border=true&background=00000000&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8&sideLabels=A5B4FC&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+alt="GitHub Streak"
 />
 
 </div>
@@ -926,8 +772,6 @@ alt="Connect topics"
 
 <br/><br/>
 
-<!-- ===== STRICT HORIZONTAL ROW ===== -->
-
 <table width="75%">
 <tr>
 
@@ -1052,7 +896,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=1
 alt="Footer animation"
 />
 
-```javascript
+```javascript id="x049z2"
 while (alive) {
   build();
   solve();
