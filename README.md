@@ -12,7 +12,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617
 />
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&height=55&lines=Full-Stack+%26+Mobile+Developer;Competitive+Programming+Learner;Cybersecurity+%26+CTF+Enthusiast;Open+Source+Explorer;Building+%E2%80%A2+Solving+%E2%80%A2+Learning+%E2%80%A2+Improving"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&height=55&lines=Full-Stack+%26+Mobile+Developer;Competitive+Programming+Learner;Cybersecurity+%26+CTF+Enthusiast;Open+Source+Explorer;Building+%E2%80%A2+Solving+%E2%80%A2+Learning+%E2%80%A2+Improving"
 alt="Animated introduction"
 />
 
@@ -36,20 +36,16 @@ alt="Profile views"
 
 <!-- ========================================================= -->
 
-<!--                        ABOUT                              -->
+<!--                        ABOUT ME                            -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=500&height=55&lines=About+Me"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=500&height=55&lines=About+Me"
 alt="About Me"
 />
-
-</div>
-
-<div align="center">
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Developer+by+craft.;Problem+solver+by+mindset.;Security+learner+by+curiosity."
@@ -87,41 +83,62 @@ const tedy = {
 
 <td align="center" width="33%">
 
-<h2>💻</h2>
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+width="46"
+height="46"
+alt="Build"
+/>
+
 <h3>BUILD</h3>
 
-<code>Full-Stack</code><br/><br/>
-<code>Mobile</code><br/><br/>
-<code>Web Experiences</code>
+<code>Full-Stack</code><br/><br/> <code>Mobile</code><br/><br/> <code>Web Experiences</code>
 
 </td>
 
 <td align="center" width="33%">
 
-<h2>🧠</h2>
+<img
+src="https://cdn.simpleicons.org/leetcode/FFA116"
+width="46"
+height="46"
+alt="Problem Solving"
+/>
+
 <h3>SOLVE</h3>
 
-<code>Algorithms</code><br/><br/>
-<code>Data Structures</code><br/><br/>
-<code>Competitive Programming</code>
+<code>Algorithms</code><br/><br/> <code>Data Structures</code><br/><br/> <code>Competitive Programming</code>
 
 </td>
 
 <td align="center" width="33%">
 
-<h2>🔐</h2>
+<img
+src="https://cdn.simpleicons.org/hackthebox/9FEF00"
+width="46"
+height="46"
+alt="Cybersecurity"
+/>
+
 <h3>UNDERSTAND</h3>
 
-<code>Cybersecurity</code><br/><br/>
-<code>CTF</code><br/><br/>
-<code>System Security</code>
+<code>Cybersecurity</code><br/><br/> <code>CTF</code><br/><br/> <code>System Security</code>
 
 </td>
 
 </tr>
 </table>
 
+<br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&repeat=true&width=950&height=40&lines=I+build+software+to+understand+technology.;I+solve+problems+to+improve+the+way+I+think.;I+study+security+to+understand+how+systems+fail."
+alt="About philosophy"
+/>
+
 </div>
+
+<br/>
 
 <!-- ========================================================= -->
 
@@ -132,17 +149,23 @@ const tedy = {
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=550&height=55&lines=Technology+Stack"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=550&height=55&lines=Technology+Stack"
 alt="Technology Stack"
 />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular&theme=dark" alt="Frontend stack"/>
+<img
+src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular&theme=dark"
+alt="Frontend stack"
+/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,postgres,git,github,vscode&theme=dark" alt="Development stack"/>
+<img
+src="https://skillicons.dev/icons?i=flutter,nodejs,postgres,git,github,vscode&theme=dark"
+alt="Development stack"
+/>
 
 <br/><br/>
 
@@ -157,38 +180,77 @@ alt="Technology names"
 
 <!-- ========================================================= -->
 
-<!--                   COMPETITIVE PROGRAMMING                 -->
+<!--                 COMPETITIVE PROGRAMMING                   -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=Competitive+Programming"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=Competitive+Programming"
 alt="Competitive Programming"
 />
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1800&pause=700&color=C4B5FD&center=true&vCenter=true&repeat=true&width=750&height=45&lines=THINK+%E2%86%92+ANALYZE+%E2%86%92+OPTIMIZE+%E2%86%92+SOLVE"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=700&color=C4B5FD&center=true&vCenter=true&repeat=true&width=750&height=45&lines=THINK+%E2%86%92+ANALYZE+%E2%86%92+OPTIMIZE+%E2%86%92+SOLVE"
 alt="Competitive Programming Process"
 />
 
-<br/>
-
-<a href="https://leetcode.com/u/OrkZCWnIpH/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" height="60" alt="LeetCode"/></a>
-             <a href="https://codeforces.com/profile/NoxCipher_"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="60" height="60" alt="Codeforces"/></a>
-
 <br/><br/>
 
-### 🟠 **[LeetCode](https://leetcode.com/u/OrkZCWnIpH/)**     ·     🔵 **[Codeforces](https://codeforces.com/profile/NoxCipher_)**
+<!-- ===== STRICT HORIZONTAL ROW ===== -->
+
+<table width="55%">
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://leetcode.com/u/OrkZCWnIpH/">
+<img
+  src="https://cdn.simpleicons.org/leetcode/FFA116"
+  width="60"
+  height="60"
+  alt="LeetCode"
+/>
+</a>
 
 <br/>
 
-`Algorithms`   ·  
-`Data Structures`   ·  
-`Optimization`   ·  
-`Complexity`   ·  
-`Problem Solving`
+<strong>
+<a href="https://leetcode.com/u/OrkZCWnIpH/">LeetCode</a>
+</strong>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://codeforces.com/profile/NoxCipher_">
+<img
+  src="https://cdn.simpleicons.org/codeforces/1F8ACB"
+  width="60"
+  height="60"
+  alt="Codeforces"
+/>
+</a>
+
+<br/>
+
+<strong>
+<a href="https://codeforces.com/profile/NoxCipher_">Codeforces</a>
+</strong>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<code>Algorithms</code>
+  ·   <code>Data Structures</code>
+  ·   <code>Optimization</code>
+  ·   <code>Complexity</code>
+  ·   <code>Problem Solving</code>
 
 <br/><br/>
 
@@ -203,14 +265,14 @@ alt="Problem solving philosophy"
 
 <!-- ========================================================= -->
 
-<!--                     CYBERSECURITY                         -->
+<!--                     CYBERSECURITY & CTF                   -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=650&height=55&lines=Cybersecurity+%26+CTF"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=650&height=55&lines=Cybersecurity+%26+CTF"
 alt="Cybersecurity and CTF"
 />
 
@@ -219,26 +281,75 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=
 alt="Cybersecurity introduction"
 />
 
-<br/>
-
-<!-- HORIZONTAL SECURITY PLATFORM ROW -->
-
-<a href="https://www.hackthebox.com/"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="62" height="62" alt="Hack The Box"/></a>
-             <a href="https://www.root-me.org/"><img src="https://www.root-me.org/favicon.ico" width="62" height="62" alt="Root-Me"/></a>
-             <a href="https://tryhackme.com/"><img src="https://cdn.simpleicons.org/tryhackme/88CC14" width="62" height="62" alt="TryHackMe"/></a>
-
 <br/><br/>
 
-### 🟢 Hack The Box     ·     🟣 Root-Me     ·     🔴 TryHackMe
+<!-- ===== STRICT HORIZONTAL ROW ===== -->
+
+<table width="70%">
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://www.hackthebox.com/">
+<img
+  src="https://cdn.simpleicons.org/hackthebox/9FEF00"
+  width="60"
+  height="60"
+  alt="Hack The Box"
+/>
+</a>
 
 <br/>
 
-`Web Security`   ·  
-`Linux`   ·  
-`Networking`   ·  
-`Cryptography`   ·  
-`Reverse Engineering`   ·  
-`CTF`
+<strong>Hack The Box</strong>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://www.root-me.org/">
+<img
+  src="https://www.root-me.org/favicon.ico"
+  width="60"
+  height="60"
+  alt="Root-Me"
+/>
+</a>
+
+<br/>
+
+<strong>Root-Me</strong>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://tryhackme.com/">
+<img
+  src="https://cdn.simpleicons.org/tryhackme/88CC14"
+  width="60"
+  height="60"
+  alt="TryHackMe"
+/>
+</a>
+
+<br/>
+
+<strong>TryHackMe</strong>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<code>Web Security</code>
+  ·   <code>Linux</code>
+  ·   <code>Networking</code>
+  ·   <code>Cryptography</code>
+  ·   <code>Reverse Engineering</code>
+  ·   <code>CTF</code>
 
 <br/><br/>
 
@@ -253,14 +364,14 @@ alt="Security philosophy"
 
 <!-- ========================================================= -->
 
-<!--                        OPEN SOURCE                         -->
+<!--                       OPEN SOURCE                         -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=550&height=55&lines=Open+Source"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=550&height=55&lines=Open+Source"
 alt="Open Source"
 />
 
@@ -271,13 +382,13 @@ alt="Open Source philosophy"
 
 <br/>
 
-`Bug Fixes`   ·  
-`Testing`   ·  
-`Documentation`   ·  
-`Frontend`   ·  
-`Performance`   ·  
-`Features`   ·  
-`Code Review`
+<code>Bug Fixes</code>
+  ·   <code>Testing</code>
+  ·   <code>Documentation</code>
+  ·   <code>Frontend</code>
+  ·   <code>Performance</code>
+  ·   <code>Features</code>
+  ·   <code>Code Review</code>
 
 </div>
 
@@ -285,59 +396,103 @@ alt="Open Source philosophy"
 
 <!-- ========================================================= -->
 
-<!--                     CURRENTLY EXPLORING                   -->
+<!--                    CURRENTLY EXPLORING                    -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=Currently+Exploring"
+alt="Currently Exploring"
+/>
+
+<br/>
+
 <table width="90%">
 <tr>
 
 <td align="center" width="20%">
-<h3>💻</h3>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+width="44"
+height="44"
+alt="Web Development"
+/>
+
 <h3>WEB</h3>
-<code>React</code><br/><br/>
-<code>Next.js</code><br/><br/>
-<code>Tailwind</code>
+
+<code>React</code><br/><br/> <code>Next.js</code><br/><br/> <code>Tailwind</code>
+
 </td>
 
 <td align="center" width="20%">
-<h3>📱</h3>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+width="44"
+height="44"
+alt="Mobile Development"
+/>
+
 <h3>MOBILE</h3>
-<code>Flutter</code><br/><br/>
-<code>React Native</code><br/><br/>
-<code>Cross-platform</code>
+
+<code>Flutter</code><br/><br/> <code>React Native</code><br/><br/> <code>Cross-platform</code>
+
 </td>
 
 <td align="center" width="20%">
-<h3>🧠</h3>
+
+<img
+src="https://cdn.simpleicons.org/leetcode/FFA116"
+width="44"
+height="44"
+alt="Algorithms"
+/>
+
 <h3>ALGORITHMS</h3>
-<code>DSA</code><br/><br/>
-<code>LeetCode</code><br/><br/>
-<code>Codeforces</code>
+
+<code>DSA</code><br/><br/> <code>LeetCode</code><br/><br/> <code>Codeforces</code>
+
 </td>
 
 <td align="center" width="20%">
-<h3>🔐</h3>
+
+<img
+src="https://cdn.simpleicons.org/hackthebox/9FEF00"
+width="44"
+height="44"
+alt="Security"
+/>
+
 <h3>SECURITY</h3>
-<code>HTB</code><br/><br/>
-<code>Root-Me</code><br/><br/>
-<code>TryHackMe</code>
+
+<code>HTB</code><br/><br/> <code>Root-Me</code><br/><br/> <code>TryHackMe</code>
+
 </td>
 
 <td align="center" width="20%">
-<h3>🌍</h3>
+
+<img
+src="https://cdn.simpleicons.org/github/FFFFFF"
+width="44"
+height="44"
+alt="Open Source"
+/>
+
 <h3>OPEN SOURCE</h3>
-<code>Git</code><br/><br/>
-<code>GitHub</code><br/><br/>
-<code>Collaboration</code>
+
+<code>Git</code><br/><br/> <code>GitHub</code><br/><br/> <code>Collaboration</code>
+
 </td>
 
 </tr>
 </table>
 
 </div>
+
+<br/>
 
 <!-- ========================================================= -->
 
@@ -348,46 +503,58 @@ alt="Open Source philosophy"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=55&lines=Featured+Work"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=55&lines=Featured+Work"
 alt="Featured Work"
 />
 
-<table>
-
+<table width="85%">
 <tr>
 
 <td align="center" width="50%">
 
-### 🌐
+<img
+src="https://cdn.simpleicons.org/cloudflare/F38020"
+width="48"
+height="48"
+alt="Portfolio"
+/>
 
-## **PORTFOLIO**
+<h2>PORTFOLIO</h2>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=BAE6FD&center=true&vCenter=true&repeat=true&width=390&height=35&lines=Projects+%E2%80%A2+Experiments+%E2%80%A2+Creative+Work"
 alt="Portfolio description"
 />
 
-### **[Explore →](https://portfolio.tedyclivel1.workers.dev/)**
+<h3>
+<a href="https://portfolio.tedyclivel1.workers.dev/">Explore →</a>
+</h3>
 
 </td>
 
 <td align="center" width="50%">
 
-### 💼
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+width="48"
+height="48"
+alt="LinkedIn"
+/>
 
-## **LINKEDIN**
+<h2>LINKEDIN</h2>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&repeat=true&width=390&height=35&lines=Professional+Profile+%E2%80%A2+Network+%E2%80%A2+Collaboration"
 alt="LinkedIn description"
 />
 
-### **[Connect →](https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331)**
+<h3>
+<a href="https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331">Connect →</a>
+</h3>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -403,7 +570,7 @@ alt="LinkedIn description"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GitHub+Analytics"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GitHub+Analytics"
 alt="GitHub Analytics"
 />
 
@@ -435,14 +602,14 @@ alt="GitHub Streak"
 
 <!-- ========================================================= -->
 
-<!--                     ACTIVITY GRAPH                        -->
+<!--                    ACTIVITY GRAPH                         -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=750&height=55&lines=Contribution+Activity"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=750&height=55&lines=Contribution+Activity"
 alt="Contribution Activity"
 />
 
@@ -465,24 +632,28 @@ alt="Contribution Graph"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=55&lines=Contribution+Snake"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=55&lines=Contribution+Snake"
 alt="Contribution Snake"
 />
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
-    width="100%"
-  />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/tedyclivel/tedyclivel/output/github-contribution-grid-snake-dark.svg"
+alt="Contribution Snake"
+width="100%"
+/>
+
 </picture>
 
 </div>
@@ -491,60 +662,95 @@ alt="Contribution Snake"
 
 <!-- ========================================================= -->
 
-<!--                       CURRENT FOCUS                       -->
+<!--                     CURRENT FOCUS                         -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=650&height=55&lines=Current+Focus"
-  alt="Current Focus"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=38BDF8&center=true&vCenter=true&repeat=false&width=650&height=55&lines=Current+Focus"
+alt="Current Focus"
 />
 
 <br/><br/>
 
-<table width="85%">
+<table width="90%">
 <tr>
 
 <td align="center" width="20%">
-<h3>💻 WEB</h3>
-<code>React</code><br/><br/>
-<code>Next.js</code><br/><br/>
-<code>Tailwind CSS</code><br/><br/>
-<code>Architecture</code>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+width="42"
+height="42"
+alt="Web"
+/>
+
+<h3>WEB</h3>
+
+<code>React</code><br/><br/> <code>Next.js</code><br/><br/> <code>Tailwind CSS</code><br/><br/> <code>Architecture</code>
+
 </td>
 
 <td align="center" width="20%">
-<h3>📱 MOBILE</h3>
-<code>Flutter</code><br/><br/>
-<code>React Native</code><br/><br/>
-<code>Cross-platform</code><br/><br/>
-<code>UI / UX</code>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+width="42"
+height="42"
+alt="Mobile"
+/>
+
+<h3>MOBILE</h3>
+
+<code>Flutter</code><br/><br/> <code>React Native</code><br/><br/> <code>Cross-platform</code><br/><br/> <code>UI / UX</code>
+
 </td>
 
 <td align="center" width="20%">
-<h3>🧠 ALGORITHMS</h3>
-<code>DSA</code><br/><br/>
-<code>LeetCode</code><br/><br/>
-<code>Codeforces</code><br/><br/>
-<code>Optimization</code>
+
+<img
+src="https://cdn.simpleicons.org/leetcode/FFA116"
+width="42"
+height="42"
+alt="Algorithms"
+/>
+
+<h3>ALGORITHMS</h3>
+
+<code>DSA</code><br/><br/> <code>LeetCode</code><br/><br/> <code>Codeforces</code><br/><br/> <code>Optimization</code>
+
 </td>
 
 <td align="center" width="20%">
-<h3>🔐 SECURITY</h3>
-<code>HTB</code><br/><br/>
-<code>Root-Me</code><br/><br/>
-<code>TryHackMe</code><br/><br/>
-<code>CTF</code>
+
+<img
+src="https://cdn.simpleicons.org/hackthebox/9FEF00"
+width="42"
+height="42"
+alt="Security"
+/>
+
+<h3>SECURITY</h3>
+
+<code>HTB</code><br/><br/> <code>Root-Me</code><br/><br/> <code>TryHackMe</code><br/><br/> <code>CTF</code>
+
 </td>
 
 <td align="center" width="20%">
-<h3>🌍 OPEN SOURCE</h3>
-<code>Git</code><br/><br/>
-<code>GitHub</code><br/><br/>
-<code>Collaboration</code><br/><br/>
-<code>Contributions</code>
+
+<img
+src="https://cdn.simpleicons.org/github/FFFFFF"
+width="42"
+height="42"
+alt="Open Source"
+/>
+
+<h3>OPEN SOURCE</h3>
+
+<code>Git</code><br/><br/> <code>GitHub</code><br/><br/> <code>Collaboration</code><br/><br/> <code>Contributions</code>
+
 </td>
 
 </tr>
@@ -555,19 +761,21 @@ alt="Contribution Snake"
 <br/>
 
 <!-- ========================================================= -->
+
 <!--                        PHILOSOPHY                         -->
+
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=600&height=55&lines=My+Philosophy"
-  alt="My Philosophy"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=818CF8&center=true&vCenter=true&repeat=false&width=600&height=55&lines=My+Philosophy"
+alt="My Philosophy"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&height=50&lines=BUILD+%E2%86%92+SOLVE+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE"
-  alt="Development Philosophy"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=950&height=50&lines=BUILD+%E2%86%92+SOLVE+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE"
+alt="Development Philosophy"
 />
 
 <br/><br/>
@@ -576,27 +784,63 @@ alt="Contribution Snake"
 <tr>
 
 <td align="center" width="25%">
-<h2>💻</h2>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+width="44"
+height="44"
+alt="Build"
+/>
+
 <h3>BUILD</h3>
+
 <sub>Create useful software.</sub>
+
 </td>
 
 <td align="center" width="25%">
-<h2>🧠</h2>
+
+<img
+src="https://cdn.simpleicons.org/leetcode/FFA116"
+width="44"
+height="44"
+alt="Solve"
+/>
+
 <h3>SOLVE</h3>
+
 <sub>Think efficiently.</sub>
+
 </td>
 
 <td align="center" width="25%">
-<h2>🔐</h2>
+
+<img
+src="https://cdn.simpleicons.org/hackthebox/9FEF00"
+width="44"
+height="44"
+alt="Break"
+/>
+
 <h3>BREAK</h3>
+
 <sub>Understand failure.</sub>
+
 </td>
 
 <td align="center" width="25%">
-<h2>🚀</h2>
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+width="44"
+height="44"
+alt="Improve"
+/>
+
 <h3>IMPROVE</h3>
+
 <sub>Build it better.</sub>
+
 </td>
 
 </tr>
@@ -605,8 +849,8 @@ alt="Contribution Snake"
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4000&pause=1200&color=C4B5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Learn+by+building.;Improve+by+solving.;Grow+by+collaborating."
-  alt="Personal philosophy"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4000&pause=1200&color=C4B5FD&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Learn+by+building.;Improve+by+solving.;Grow+by+collaborating."
+alt="Personal philosophy"
 />
 
 </div>
@@ -622,7 +866,7 @@ alt="Contribution Snake"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=55&lines=Let's+Connect"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=55&lines=Let's+Connect"
 alt="Let's Connect"
 />
 
@@ -631,24 +875,116 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=
 alt="Connect topics"
 />
 
-<br/>
-
-<!-- HORIZONTAL CONNECTION ROW -->
-
-<a href="https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"/></a>
-         <a href="https://github.com/tedyclivel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/></a>
-         <a href="https://leetcode.com/u/OrkZCWnIpH/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode"/></a>
-         <a href="https://codeforces.com/profile/NoxCipher_"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" alt="Codeforces"/></a>
-         <a href="mailto:tedyclivel1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Email"/></a>
-
 <br/><br/>
 
-### **[LinkedIn](https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331)**   ·  
+<!-- ===== STRICT HORIZONTAL ROW ===== -->
 
-**[GitHub](https://github.com/tedyclivel)**   ·  
-**[LeetCode](https://leetcode.com/u/OrkZCWnIpH/)**   ·  
-**[Codeforces](https://codeforces.com/profile/NoxCipher_)**   ·  
-**[Portfolio](https://portfolio.tedyclivel1.workers.dev/)**
+<table width="75%">
+<tr>
+
+<td align="center" width="20%">
+
+<a href="https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331">
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+  width="46"
+  height="46"
+  alt="LinkedIn"
+/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/tedy-clivel-fokou-temfack-2474ba331">
+<strong>LinkedIn</strong>
+</a>
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://github.com/tedyclivel">
+<img
+  src="https://cdn.simpleicons.org/github/FFFFFF"
+  width="46"
+  height="46"
+  alt="GitHub"
+/>
+</a>
+
+<br/>
+
+<a href="https://github.com/tedyclivel">
+<strong>GitHub</strong>
+</a>
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://leetcode.com/u/OrkZCWnIpH/">
+<img
+  src="https://cdn.simpleicons.org/leetcode/FFA116"
+  width="46"
+  height="46"
+  alt="LeetCode"
+/>
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/OrkZCWnIpH/">
+<strong>LeetCode</strong>
+</a>
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://codeforces.com/profile/NoxCipher_">
+<img
+  src="https://cdn.simpleicons.org/codeforces/1F8ACB"
+  width="46"
+  height="46"
+  alt="Codeforces"
+/>
+</a>
+
+<br/>
+
+<a href="https://codeforces.com/profile/NoxCipher_">
+<strong>Codeforces</strong>
+</a>
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="mailto:tedyclivel1@gmail.com">
+<img
+  src="https://cdn.simpleicons.org/gmail/EA4335"
+  width="46"
+  height="46"
+  alt="Email"
+/>
+</a>
+
+<br/>
+
+<a href="mailto:tedyclivel1@gmail.com">
+<strong>Email</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<a href="https://portfolio.tedyclivel1.workers.dev/">
+<strong>Explore my Portfolio →</strong>
+</a>
 
 </div>
 
@@ -677,13 +1013,15 @@ while (alive) {
 ```
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Thanks+for+visiting+my+profile.;Let's+build+something+meaningful."
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Thanks+for+visiting+my+profile.;Let's+build+something+meaningful."
 alt="Thanks for visiting"
 />
 
 <br/>
 
-### **[Tedy Clivel](https://github.com/tedyclivel)**
+<h3>
+<a href="https://github.com/tedyclivel">Tedy Clivel</a>
+</h3>
 
 <img
 width="100%"
